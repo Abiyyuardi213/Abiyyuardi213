@@ -1,7 +1,3 @@
-# 💫 About Me:
-I work at PT Kereta Api Indonesia as Head of Planning and Development Division<br>I am currently studying Informatics Engineering at the Adhi Tama Institute of Technology, Surabaya.<br>I am working on several management information systems for several companies, especially in the city of Surabaya.<br>Currently I am focusing on learning about artificial intelligence and machine learning.<br>
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abiyyu Ardi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abiyyuardi17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abiyyu Ardilian) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rdnabiyyu) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abiyyu Ardilian) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abiyyuardilian213@gmail.com) 
 
